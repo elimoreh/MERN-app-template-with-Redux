@@ -51,6 +51,7 @@ Not currently deployed
 - [MongoDB](https://www.mongodb.com/) - The database
 - [Mongoose](https://mongoosejs.com/) - The database management tool
 - [React.js](https://https://reactjs.org/) - The front-end MVC framework
+- [Redux](https://redux.js.org/) - The front-end MVC framewo
 - [Express](https://expressjs.com/) - The server
 - [Node.js](https://nodejs.org/) - The back-end
 - [Jest](https://jestjs.io/) - The testing framework
@@ -68,6 +69,7 @@ We use [Git](https://git-scm.com/) for versioning. For the versions available, s
 ## Authors
 
 - **Nicholas Vincent-Hill** - [Nicholas Vincent-Hill](http://nickvh.tech/)
+  **Eli Moreh** - Added Redux framework
 
 See also the list of [contributors](https://github.com/your/project/contributors) who also participated in this project.
 
